@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\bin\Debug\netcoreapp2.1\Water_Overflow.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\bin\Debug\netcoreapp2.1\Water_Overflow.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\bin\Debug\netcoreapp2.1\Water_Overflow.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\bin\Debug\netcoreapp2.1\Water_Overflow.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\bin\Debug\netcoreapp2.1\Water_Overflow.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\obj\Debug\netcoreapp2.1\Water_Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\obj\Debug\netcoreapp2.1\Water_Overflow.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\obj\Debug\netcoreapp2.1\Water_Overflow.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\obj\Debug\netcoreapp2.1\Water_Overflow.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Water_Overflow\obj\Debug\netcoreapp2.1\Water_Overflow.pdb

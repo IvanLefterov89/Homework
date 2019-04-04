@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.deps.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.pdb

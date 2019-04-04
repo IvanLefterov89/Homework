@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\bin\Debug\netcoreapp2.1\SumDigit.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\bin\Debug\netcoreapp2.1\SumDigit.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\bin\Debug\netcoreapp2.1\SumDigit.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\bin\Debug\netcoreapp2.1\SumDigit.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\bin\Debug\netcoreapp2.1\SumDigit.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\obj\Debug\netcoreapp2.1\SumDigit.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\obj\Debug\netcoreapp2.1\SumDigit.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\obj\Debug\netcoreapp2.1\SumDigit.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\obj\Debug\netcoreapp2.1\SumDigit.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\obj\Debug\netcoreapp2.1\SumDigit.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\SumDigit\obj\Debug\netcoreapp2.1\SumDigit.pdb

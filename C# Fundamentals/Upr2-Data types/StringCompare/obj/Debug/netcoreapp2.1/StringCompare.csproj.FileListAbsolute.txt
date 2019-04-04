@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\bin\Debug\netcoreapp2.1\StringCompare.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\StringCompare\obj\Debug\netcoreapp2.1\StringCompare.csprojAssemblyReference.cache

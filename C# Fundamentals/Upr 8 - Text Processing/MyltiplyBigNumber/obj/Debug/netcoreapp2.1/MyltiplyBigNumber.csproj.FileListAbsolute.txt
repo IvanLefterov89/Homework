@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\bin\Debug\netcoreapp2.1\MyltiplyBigNumber.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\bin\Debug\netcoreapp2.1\MyltiplyBigNumber.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\bin\Debug\netcoreapp2.1\MyltiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\bin\Debug\netcoreapp2.1\MyltiplyBigNumber.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\bin\Debug\netcoreapp2.1\MyltiplyBigNumber.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\obj\Debug\netcoreapp2.1\MyltiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\obj\Debug\netcoreapp2.1\MyltiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\obj\Debug\netcoreapp2.1\MyltiplyBigNumber.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\obj\Debug\netcoreapp2.1\MyltiplyBigNumber.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\obj\Debug\netcoreapp2.1\MyltiplyBigNumber.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\MyltiplyBigNumber\obj\Debug\netcoreapp2.1\MyltiplyBigNumber.csprojAssemblyReference.cache

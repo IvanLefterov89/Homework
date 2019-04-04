@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\bin\Debug\netcoreapp2.1\Messages.deps.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\bin\Debug\netcoreapp2.1\Messages.runtimeconfig.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\bin\Debug\netcoreapp2.1\Messages.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\bin\Debug\netcoreapp2.1\Messages.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\bin\Debug\netcoreapp2.1\Messages.pdb
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\obj\Debug\netcoreapp2.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\obj\Debug\netcoreapp2.1\Messages.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\obj\Debug\netcoreapp2.1\Messages.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\obj\Debug\netcoreapp2.1\Messages.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Messages\obj\Debug\netcoreapp2.1\Messages.pdb

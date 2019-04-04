@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\bin\Debug\netcoreapp2.1\CharacterMultiply.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\CharacterMultiply\obj\Debug\netcoreapp2.1\CharacterMultiply.pdb

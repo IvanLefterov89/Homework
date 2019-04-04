@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\bin\Debug\netcoreapp2.1\Decrypt.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\bin\Debug\netcoreapp2.1\Decrypt.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\bin\Debug\netcoreapp2.1\Decrypt.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\bin\Debug\netcoreapp2.1\Decrypt.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\bin\Debug\netcoreapp2.1\Decrypt.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\obj\Debug\netcoreapp2.1\Decrypt.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\obj\Debug\netcoreapp2.1\Decrypt.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\obj\Debug\netcoreapp2.1\Decrypt.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\obj\Debug\netcoreapp2.1\Decrypt.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Decrypt\obj\Debug\netcoreapp2.1\Decrypt.pdb

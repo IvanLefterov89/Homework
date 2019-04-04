@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.deps.json
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.dll
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.pdb
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.dll
+C:\Users\Lefa\source\repos\Upr 7 - Dictionary\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\bin\Debug\netcoreapp2.1\Snowball.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\bin\Debug\netcoreapp2.1\Snowball.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\bin\Debug\netcoreapp2.1\Snowball.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\bin\Debug\netcoreapp2.1\Snowball.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\bin\Debug\netcoreapp2.1\Snowball.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\obj\Debug\netcoreapp2.1\Snowball.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\obj\Debug\netcoreapp2.1\Snowball.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\obj\Debug\netcoreapp2.1\Snowball.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\obj\Debug\netcoreapp2.1\Snowball.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\obj\Debug\netcoreapp2.1\Snowball.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Snowball\obj\Debug\netcoreapp2.1\Snowball.csprojAssemblyReference.cache

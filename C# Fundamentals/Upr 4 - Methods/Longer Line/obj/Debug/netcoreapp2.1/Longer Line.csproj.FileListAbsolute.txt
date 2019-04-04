@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\bin\Debug\netcoreapp2.1\Longer Line.deps.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\bin\Debug\netcoreapp2.1\Longer Line.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\bin\Debug\netcoreapp2.1\Longer Line.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\bin\Debug\netcoreapp2.1\Longer Line.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\bin\Debug\netcoreapp2.1\Longer Line.pdb
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\obj\Debug\netcoreapp2.1\Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\obj\Debug\netcoreapp2.1\Longer Line.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\obj\Debug\netcoreapp2.1\Longer Line.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\obj\Debug\netcoreapp2.1\Longer Line.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Longer Line\obj\Debug\netcoreapp2.1\Longer Line.pdb

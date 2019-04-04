@@ -1,0 +1,6 @@
+C:\Users\Lefa\source\repos\Nested_loops\Parking\bin\Debug\Parking.exe.config
+C:\Users\Lefa\source\repos\Nested_loops\Parking\bin\Debug\Parking.exe
+C:\Users\Lefa\source\repos\Nested_loops\Parking\bin\Debug\Parking.pdb
+C:\Users\Lefa\source\repos\Nested_loops\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Nested_loops\Parking\obj\Debug\Parking.exe
+C:\Users\Lefa\source\repos\Nested_loops\Parking\obj\Debug\Parking.pdb

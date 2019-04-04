@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\bin\Debug\netcoreapp2.1\Divison.deps.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\bin\Debug\netcoreapp2.1\Divison.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\bin\Debug\netcoreapp2.1\Divison.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\bin\Debug\netcoreapp2.1\Divison.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\bin\Debug\netcoreapp2.1\Divison.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\obj\Debug\netcoreapp2.1\Divison.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\obj\Debug\netcoreapp2.1\Divison.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\obj\Debug\netcoreapp2.1\Divison.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\obj\Debug\netcoreapp2.1\Divison.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Divison\obj\Debug\netcoreapp2.1\Divison.pdb

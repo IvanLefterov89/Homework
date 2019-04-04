@@ -1,0 +1,18 @@
+﻿using System;
+
+namespace Reverse_String
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string normal = Console.ReadLine();
+            string reverse = "";
+            for (int i = normal.Length - 1; i >= 0; i--)
+            {
+                reverse += normal[i];
+            }
+            Console.WriteLine(reverse);
+        }
+    }
+}

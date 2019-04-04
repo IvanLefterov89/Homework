@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\bin\Debug\netcoreapp2.1\Triples.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\bin\Debug\netcoreapp2.1\Triples.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\bin\Debug\netcoreapp2.1\Triples.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\bin\Debug\netcoreapp2.1\Triples.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\bin\Debug\netcoreapp2.1\Triples.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\obj\Debug\netcoreapp2.1\Triples.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\obj\Debug\netcoreapp2.1\Triples.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\obj\Debug\netcoreapp2.1\Triples.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\obj\Debug\netcoreapp2.1\Triples.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Triples\obj\Debug\netcoreapp2.1\Triples.pdb

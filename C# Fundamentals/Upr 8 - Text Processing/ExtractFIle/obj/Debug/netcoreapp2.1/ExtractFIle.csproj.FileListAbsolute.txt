@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\bin\Debug\netcoreapp2.1\ExtractFIle.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\bin\Debug\netcoreapp2.1\ExtractFIle.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\bin\Debug\netcoreapp2.1\ExtractFIle.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\bin\Debug\netcoreapp2.1\ExtractFIle.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\bin\Debug\netcoreapp2.1\ExtractFIle.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\obj\Debug\netcoreapp2.1\ExtractFIle.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\obj\Debug\netcoreapp2.1\ExtractFIle.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\obj\Debug\netcoreapp2.1\ExtractFIle.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\obj\Debug\netcoreapp2.1\ExtractFIle.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\obj\Debug\netcoreapp2.1\ExtractFIle.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ExtractFIle\obj\Debug\netcoreapp2.1\ExtractFIle.pdb

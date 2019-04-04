@@ -1,0 +1,7 @@
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\bin\Debug\WheelsSong.exe.config
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\bin\Debug\WheelsSong.exe
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\bin\Debug\WheelsSong.pdb
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\obj\Debug\WheelsSong.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\obj\Debug\WheelsSong.exe
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\obj\Debug\WheelsSong.pdb
+C:\Users\Lefa\source\repos\Nested_loops\WheelsSong\obj\Debug\WheelsSong.csprojAssemblyReference.cache

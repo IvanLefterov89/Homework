@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\bin\Debug\netcoreapp2.1\Spices.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\bin\Debug\netcoreapp2.1\Spices.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\bin\Debug\netcoreapp2.1\Spices.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\bin\Debug\netcoreapp2.1\Spices.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\bin\Debug\netcoreapp2.1\Spices.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\obj\Debug\netcoreapp2.1\Spices.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\obj\Debug\netcoreapp2.1\Spices.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\obj\Debug\netcoreapp2.1\Spices.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\obj\Debug\netcoreapp2.1\Spices.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\obj\Debug\netcoreapp2.1\Spices.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Spices\obj\Debug\netcoreapp2.1\Spices.pdb

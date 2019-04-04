@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\bin\Debug\netcoreapp2.1\Balance.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\bin\Debug\netcoreapp2.1\Balance.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\bin\Debug\netcoreapp2.1\Balance.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\bin\Debug\netcoreapp2.1\Balance.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\bin\Debug\netcoreapp2.1\Balance.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\obj\Debug\netcoreapp2.1\Balance.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\obj\Debug\netcoreapp2.1\Balance.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\obj\Debug\netcoreapp2.1\Balance.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\obj\Debug\netcoreapp2.1\Balance.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Balance\obj\Debug\netcoreapp2.1\Balance.pdb

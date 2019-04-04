@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\bin\Debug\netcoreapp2.1\Article2.deps.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\bin\Debug\netcoreapp2.1\Article2.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\bin\Debug\netcoreapp2.1\Article2.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\bin\Debug\netcoreapp2.1\Article2.dll
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\bin\Debug\netcoreapp2.1\Article2.pdb
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\obj\Debug\netcoreapp2.1\Article2.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\obj\Debug\netcoreapp2.1\Article2.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\obj\Debug\netcoreapp2.1\Article2.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\obj\Debug\netcoreapp2.1\Article2.dll
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\obj\Debug\netcoreapp2.1\Article2.pdb
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Article2\obj\Debug\netcoreapp2.1\Article2.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\bin\Debug\netcoreapp2.1\Teamwork.deps.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\bin\Debug\netcoreapp2.1\Teamwork.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\bin\Debug\netcoreapp2.1\Teamwork.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\bin\Debug\netcoreapp2.1\Teamwork.dll
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\bin\Debug\netcoreapp2.1\Teamwork.pdb
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\obj\Debug\netcoreapp2.1\Teamwork.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\obj\Debug\netcoreapp2.1\Teamwork.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\obj\Debug\netcoreapp2.1\Teamwork.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\obj\Debug\netcoreapp2.1\Teamwork.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\obj\Debug\netcoreapp2.1\Teamwork.dll
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Teamwork\obj\Debug\netcoreapp2.1\Teamwork.pdb

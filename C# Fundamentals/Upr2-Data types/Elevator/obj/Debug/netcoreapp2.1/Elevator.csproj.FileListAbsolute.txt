@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\bin\Debug\netcoreapp2.1\Elevator.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\bin\Debug\netcoreapp2.1\Elevator.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\bin\Debug\netcoreapp2.1\Elevator.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\obj\Debug\netcoreapp2.1\Elevator.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\obj\Debug\netcoreapp2.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\obj\Debug\netcoreapp2.1\Elevator.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\Elevator\obj\Debug\netcoreapp2.1\Elevator.pdb

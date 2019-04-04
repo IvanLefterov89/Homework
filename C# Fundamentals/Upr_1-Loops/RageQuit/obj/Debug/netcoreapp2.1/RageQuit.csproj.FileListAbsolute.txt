@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.deps.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\bin\Debug\netcoreapp2.1\RageQuit.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\RageQuit\obj\Debug\netcoreapp2.1\RageQuit.csprojAssemblyReference.cache

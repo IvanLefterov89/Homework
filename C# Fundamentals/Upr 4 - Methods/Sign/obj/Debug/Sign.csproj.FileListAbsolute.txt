@@ -1,0 +1,7 @@
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\bin\Debug\Sign.exe.config
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\bin\Debug\Sign.exe
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\bin\Debug\Sign.pdb
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\obj\Debug\Sign.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\obj\Debug\Sign.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\obj\Debug\Sign.exe
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Sign\obj\Debug\Sign.pdb

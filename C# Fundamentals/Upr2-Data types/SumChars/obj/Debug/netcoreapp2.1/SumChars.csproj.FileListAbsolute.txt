@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\bin\Debug\netcoreapp2.1\SumChars.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\bin\Debug\netcoreapp2.1\SumChars.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\bin\Debug\netcoreapp2.1\SumChars.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\bin\Debug\netcoreapp2.1\SumChars.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\bin\Debug\netcoreapp2.1\SumChars.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\obj\Debug\netcoreapp2.1\SumChars.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\obj\Debug\netcoreapp2.1\SumChars.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\obj\Debug\netcoreapp2.1\SumChars.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\obj\Debug\netcoreapp2.1\SumChars.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\SumChars\obj\Debug\netcoreapp2.1\SumChars.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\bin\Debug\netcoreapp2.1\English name.deps.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\bin\Debug\netcoreapp2.1\English name.runtimeconfig.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\bin\Debug\netcoreapp2.1\English name.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\bin\Debug\netcoreapp2.1\English name.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\bin\Debug\netcoreapp2.1\English name.pdb
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\obj\Debug\netcoreapp2.1\English name.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\obj\Debug\netcoreapp2.1\English name.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\obj\Debug\netcoreapp2.1\English name.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\obj\Debug\netcoreapp2.1\English name.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\obj\Debug\netcoreapp2.1\English name.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\English name\obj\Debug\netcoreapp2.1\English name.pdb

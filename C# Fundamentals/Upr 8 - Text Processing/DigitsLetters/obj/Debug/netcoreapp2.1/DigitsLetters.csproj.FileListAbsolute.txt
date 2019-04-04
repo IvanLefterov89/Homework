@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\bin\Debug\netcoreapp2.1\DigitsLetters.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\bin\Debug\netcoreapp2.1\DigitsLetters.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\bin\Debug\netcoreapp2.1\DigitsLetters.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\bin\Debug\netcoreapp2.1\DigitsLetters.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\bin\Debug\netcoreapp2.1\DigitsLetters.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\obj\Debug\netcoreapp2.1\DigitsLetters.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\obj\Debug\netcoreapp2.1\DigitsLetters.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\obj\Debug\netcoreapp2.1\DigitsLetters.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\obj\Debug\netcoreapp2.1\DigitsLetters.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\obj\Debug\netcoreapp2.1\DigitsLetters.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\DigitsLetters\obj\Debug\netcoreapp2.1\DigitsLetters.pdb

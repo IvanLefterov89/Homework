@@ -1,0 +1,7 @@
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\bin\Debug\EvenPair.exe.config
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\bin\Debug\EvenPair.exe
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\bin\Debug\EvenPair.pdb
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\obj\Debug\EvenPair.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\obj\Debug\EvenPair.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\obj\Debug\EvenPair.exe
+C:\Users\Lefa\source\repos\Nested_loops\EvenPair\obj\Debug\EvenPair.pdb

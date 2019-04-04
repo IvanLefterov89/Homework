@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\bin\Debug\netcoreapp2.1\ASCII.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\bin\Debug\netcoreapp2.1\ASCII.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\bin\Debug\netcoreapp2.1\ASCII.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\bin\Debug\netcoreapp2.1\ASCII.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\bin\Debug\netcoreapp2.1\ASCII.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\obj\Debug\netcoreapp2.1\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\obj\Debug\netcoreapp2.1\ASCII.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\obj\Debug\netcoreapp2.1\ASCII.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\obj\Debug\netcoreapp2.1\ASCII.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\ASCII\obj\Debug\netcoreapp2.1\ASCII.pdb

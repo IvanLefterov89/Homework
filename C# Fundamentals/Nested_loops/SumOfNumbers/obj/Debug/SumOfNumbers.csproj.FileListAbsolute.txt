@@ -1,0 +1,6 @@
+C:\Users\Lefa\source\repos\Nested_loops\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\Lefa\source\repos\Nested_loops\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\Lefa\source\repos\Nested_loops\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\Lefa\source\repos\Nested_loops\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Nested_loops\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\Lefa\source\repos\Nested_loops\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

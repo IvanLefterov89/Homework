@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\bin\Debug\netcoreapp2.1\ReplaceChars.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\bin\Debug\netcoreapp2.1\ReplaceChars.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\bin\Debug\netcoreapp2.1\ReplaceChars.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\bin\Debug\netcoreapp2.1\ReplaceChars.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\bin\Debug\netcoreapp2.1\ReplaceChars.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\obj\Debug\netcoreapp2.1\ReplaceChars.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\obj\Debug\netcoreapp2.1\ReplaceChars.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\obj\Debug\netcoreapp2.1\ReplaceChars.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\obj\Debug\netcoreapp2.1\ReplaceChars.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ReplaceChars\obj\Debug\netcoreapp2.1\ReplaceChars.pdb

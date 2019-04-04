@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.deps.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.runtimeconfig.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.pdb
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.pdb

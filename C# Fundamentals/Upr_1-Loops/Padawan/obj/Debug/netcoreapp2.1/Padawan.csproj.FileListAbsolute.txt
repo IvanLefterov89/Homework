@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\obj\Debug\netcoreapp2.1\Padawan.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\obj\Debug\netcoreapp2.1\Padawan.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\obj\Debug\netcoreapp2.1\Padawan.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\bin\Debug\netcoreapp2.1\Padawan.deps.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\bin\Debug\netcoreapp2.1\Padawan.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\bin\Debug\netcoreapp2.1\Padawan.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\bin\Debug\netcoreapp2.1\Padawan.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\bin\Debug\netcoreapp2.1\Padawan.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\obj\Debug\netcoreapp2.1\Padawan.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Padawan\obj\Debug\netcoreapp2.1\Padawan.pdb

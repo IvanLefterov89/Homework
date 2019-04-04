@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.deps.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\bin\Debug\netcoreapp2.1\Repeat String.pdb
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.pdb
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Repeat String\obj\Debug\netcoreapp2.1\Repeat String.csprojAssemblyReference.cache

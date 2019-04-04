@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.deps.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\bin\Debug\netcoreapp2.1\Vowels Count.pdb
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Vowels Count\obj\Debug\netcoreapp2.1\Vowels Count.pdb

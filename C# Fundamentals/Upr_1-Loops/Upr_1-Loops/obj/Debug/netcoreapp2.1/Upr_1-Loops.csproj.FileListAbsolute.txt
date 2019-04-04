@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\bin\Debug\netcoreapp2.1\Upr_1-Loops.deps.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\bin\Debug\netcoreapp2.1\Upr_1-Loops.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\bin\Debug\netcoreapp2.1\Upr_1-Loops.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\bin\Debug\netcoreapp2.1\Upr_1-Loops.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\bin\Debug\netcoreapp2.1\Upr_1-Loops.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\obj\Debug\netcoreapp2.1\Upr_1-Loops.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\obj\Debug\netcoreapp2.1\Upr_1-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\obj\Debug\netcoreapp2.1\Upr_1-Loops.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\obj\Debug\netcoreapp2.1\Upr_1-Loops.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\obj\Debug\netcoreapp2.1\Upr_1-Loops.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Upr_1-Loops\obj\Debug\netcoreapp2.1\Upr_1-Loops.pdb

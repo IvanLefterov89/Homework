@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\bin\Debug\netcoreapp2.1\Vacation.deps.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\bin\Debug\netcoreapp2.1\Vacation.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\bin\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\bin\Debug\netcoreapp2.1\Vacation.pdb
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\obj\Debug\netcoreapp2.1\Vacation.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\obj\Debug\netcoreapp2.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\obj\Debug\netcoreapp2.1\Vacation.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\obj\Debug\netcoreapp2.1\Vacation.dll
+C:\Users\Lefa\source\repos\Upr_1-Loops\Vacation\obj\Debug\netcoreapp2.1\Vacation.pdb

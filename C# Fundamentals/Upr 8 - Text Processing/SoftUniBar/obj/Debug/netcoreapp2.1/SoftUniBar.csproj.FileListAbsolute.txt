@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\bin\Debug\netcoreapp2.1\SoftUniBar.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\bin\Debug\netcoreapp2.1\SoftUniBar.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\bin\Debug\netcoreapp2.1\SoftUniBar.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\bin\Debug\netcoreapp2.1\SoftUniBar.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\bin\Debug\netcoreapp2.1\SoftUniBar.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\obj\Debug\netcoreapp2.1\SoftUniBar.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\obj\Debug\netcoreapp2.1\SoftUniBar.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\obj\Debug\netcoreapp2.1\SoftUniBar.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\obj\Debug\netcoreapp2.1\SoftUniBar.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\obj\Debug\netcoreapp2.1\SoftUniBar.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\SoftUniBar\obj\Debug\netcoreapp2.1\SoftUniBar.pdb

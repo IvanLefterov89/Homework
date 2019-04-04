@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.deps.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.runtimeconfig.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\bin\Debug\netcoreapp2.1\Gaming Store.pdb
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.dll
+C:\Users\Lefa\source\repos\upr_1.1-Loops\Gaming Store\obj\Debug\netcoreapp2.1\Gaming Store.pdb

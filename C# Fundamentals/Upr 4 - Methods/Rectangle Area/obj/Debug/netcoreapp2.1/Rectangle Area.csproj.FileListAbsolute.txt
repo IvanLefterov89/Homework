@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\bin\Debug\netcoreapp2.1\Rectangle Area.deps.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\bin\Debug\netcoreapp2.1\Rectangle Area.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\bin\Debug\netcoreapp2.1\Rectangle Area.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\bin\Debug\netcoreapp2.1\Rectangle Area.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\bin\Debug\netcoreapp2.1\Rectangle Area.pdb
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\obj\Debug\netcoreapp2.1\Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\obj\Debug\netcoreapp2.1\Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\obj\Debug\netcoreapp2.1\Rectangle Area.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\obj\Debug\netcoreapp2.1\Rectangle Area.dll
+C:\Users\Lefa\source\repos\Upr 4 - Methods\Rectangle Area\obj\Debug\netcoreapp2.1\Rectangle Area.pdb

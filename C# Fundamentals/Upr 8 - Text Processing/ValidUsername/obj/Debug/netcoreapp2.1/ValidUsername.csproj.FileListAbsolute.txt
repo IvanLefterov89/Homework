@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.deps.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\bin\Debug\netcoreapp2.1\ValidUsername.pdb
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.dll
+C:\Users\Lefa\source\repos\Upr 8 - Text Processing\ValidUsername\obj\Debug\netcoreapp2.1\ValidUsername.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lefa\source\repos\Nested_loops\Coins\bin\Debug\Coins.exe.config
+C:\Users\Lefa\source\repos\Nested_loops\Coins\bin\Debug\Coins.exe
+C:\Users\Lefa\source\repos\Nested_loops\Coins\bin\Debug\Coins.pdb
+C:\Users\Lefa\source\repos\Nested_loops\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Nested_loops\Coins\obj\Debug\Coins.exe
+C:\Users\Lefa\source\repos\Nested_loops\Coins\obj\Debug\Coins.pdb

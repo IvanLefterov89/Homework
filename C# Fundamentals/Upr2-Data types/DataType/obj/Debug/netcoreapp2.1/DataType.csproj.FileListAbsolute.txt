@@ -1,0 +1,10 @@
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\bin\Debug\netcoreapp2.1\DataType.deps.json
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\bin\Debug\netcoreapp2.1\DataType.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\bin\Debug\netcoreapp2.1\DataType.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\bin\Debug\netcoreapp2.1\DataType.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\bin\Debug\netcoreapp2.1\DataType.pdb
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\obj\Debug\netcoreapp2.1\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\obj\Debug\netcoreapp2.1\DataType.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\obj\Debug\netcoreapp2.1\DataType.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\obj\Debug\netcoreapp2.1\DataType.dll
+C:\Users\Lefa\source\repos\Upr2-Data types\DataType\obj\Debug\netcoreapp2.1\DataType.pdb

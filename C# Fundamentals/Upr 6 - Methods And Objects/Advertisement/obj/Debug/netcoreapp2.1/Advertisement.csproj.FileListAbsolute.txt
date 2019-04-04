@@ -1,0 +1,11 @@
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\bin\Debug\netcoreapp2.1\Advertisement.deps.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\bin\Debug\netcoreapp2.1\Advertisement.runtimeconfig.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\bin\Debug\netcoreapp2.1\Advertisement.runtimeconfig.dev.json
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\bin\Debug\netcoreapp2.1\Advertisement.dll
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\bin\Debug\netcoreapp2.1\Advertisement.pdb
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\obj\Debug\netcoreapp2.1\Advertisement.csprojAssemblyReference.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\obj\Debug\netcoreapp2.1\Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\obj\Debug\netcoreapp2.1\Advertisement.AssemblyInfoInputs.cache
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\obj\Debug\netcoreapp2.1\Advertisement.AssemblyInfo.cs
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\obj\Debug\netcoreapp2.1\Advertisement.dll
+C:\Users\Lefa\source\repos\Upr 6 - Methods And Objects\Advertisement\obj\Debug\netcoreapp2.1\Advertisement.pdb
